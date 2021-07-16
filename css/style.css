@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.clasevendedor{
+    background: grey;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.claseformulario{
+    background: yellow;
+    margin-bottom: 5px;
+    padding: 10px;
+}   
+
+th, td{
+    text-align: center;
+    border: solid red 1px;
+    padding: 10px;
+}
+
+.tableformat table{
+    margin: 10px auto;
+}
+
+.material{
+    width: 700px;
+}
